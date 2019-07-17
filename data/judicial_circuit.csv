@@ -1,0 +1,14 @@
+judicial_circuit_id,judicial_circuit_name,judicial_circuit_abbreviation,color_id
+0,D.C. Circuit,D.C. Cir.,1
+1,First Circuit,1st Cir.,2
+2,Second Circuit,2nd Cir.,3
+3,Third Circuit,3rd Cir.,4
+4,Fourth Circuit,4th Cir.,2
+5,Fifth Circuit,5th Cir.,4
+6,Sixth Circuit,6th Cir.,1
+7,Seventh Circuit,7th Cir.,4
+8,Eighth Circuit,8th Cir.,2
+9,Ninth Circuit,9th Cir.,3
+10,Tenth Circuit,10th Cir.,1
+11,Eleventh Circuit,11th Cir.,3
+12,Federal Circuit,Fed. Cir.,0

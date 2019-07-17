@@ -1,0 +1,95 @@
+judicial_district_id,judicial_district_name,judicial_district_abbreviation,judicial_circuit_id,state_alpha_code
+Alabama Middle,Middle District of Alabama,M.D. Ala.,11,AL
+Alabama Northern,Northern District of Alabama,N.D. Ala.,11,AL
+Alabama Southern,Southern District of Alabama,S.D. Ala.,11,AL
+Alaska,District of Alaska,D. Ak.,9,AK
+Arizona,District of Arizona,D. Ariz.,9,AZ
+Arkansas Eastern,Eastern District of Arkansas,E.D. Ark.,8,AR
+Arkansas Western,Western District of Arkansas,W.D. Ark.,8,AR
+California Central,Central District of California,C.D. Cal.,9,CA
+California Eastern,Eastern District of California,E.D. Cal.,9,CA
+California Northern,Northern District of California,N.D. Cal.,9,CA
+California Southern,Southern District of California,S.D. Cal.,9,CA
+Colorado,District of Colorado,D. Colo.,10,CO
+Connecticut,District of Connecticut,D. Conn.,2,CT
+Delaware,District of Delaware,D. Del.,3,DE
+District of Columbia,District of Columbia,D.D.C.,0,DC
+Florida Middle,Middle District of Florida,M.D. Fla.,11,FL
+Florida Northern,Northern District of Florida,N.D. Fla.,11,FL
+Florida Southern,Southern District of Florida,S.D. Fla.,11,FL
+Georgia Middle,Middle District of Georgia,M.D. Ga.,11,GA
+Georgia Northern,Northern District of Georgia,N.D. Ga.,11,GA
+Georgia Southern,Southern District of Georgia,S.D. Ga.,11,GA
+Guam,District of Guam,D. Guam,9,GU
+Hawaii,District of Hawaii,D. Haw.,9,HI
+Idaho,District of Idaho,D. Idaho,9,ID
+Illinois Central,Central District of Illinois,C.D. Ill.,7,IL
+Illinois Northern,Northern District of Illinois,N.D. Ill.,7,IL
+Illinois Southern,Southern District of Illinois,S.D. Ill.,7,IL
+Indiana Northern,Northern District of Indiana,N.D. Ind.,7,IN
+Indiana Southern,Southern District of Indiana,S.D. Ind.,7,IN
+Iowa Northern,Northern District of Iowa,N.D. Iowa,8,IA
+Iowa Southern,Southern District of Iowa,S.D. Iowa,8,IA
+Kansas,District of Kansas,D. Kan.,10,KS
+Kentucky Eastern,Eastern District of Kentucky,E.D. Ky.,6,KY
+Kentucky Western,Western District of Kentucky,W.D. Ky.,6,KY
+Louisiana Eastern,Eastern District of Louisiana,E.D. La.,5,LA
+Louisiana Middle,Middle District of Louisiana,M.D. La.,5,LA
+Louisiana Western,Western District of Louisiana,W.D. La.,5,LA
+Maine,District of Maine,D. Me.,1,ME
+Maryland,District of Maryland,D. Md.,4,MD
+Massachusetts,District of Massachusetts,D. Mass.,1,MA
+Michigan Eastern,Eastern District of Michigan,E.D. Mich.,6,MI
+Michigan Western,Western District of Michigan,W.D. Mich.,6,MI
+Minnesota,District of Minnesota,D. Minn.,8,MN
+Mississippi Northern,Northern District of Mississippi,N.D. Miss.,5,MS
+Mississippi Southern,Southern District of Mississippi,S.D. Miss.,5,MS
+Missouri Eastern,Eastern District of Missouri,E.D. Mo.,8,MO
+Missouri Western,Western District of Missouri,W.D. Mo.,8,MO
+Montana,District of Montana,D. Mont.,9,MT
+Nebraska,District of Nebraska,D. Neb.,8,NE
+Nevada,District of Nevada,D. Nev.,9,NV
+New Hampshire,District of New Hampshire,D.N.H.,1,NH
+New Jersey,District of New Jersey,D.N.J.,3,NJ
+New Mexico,District of New Mexico,D.N.M.,10,NM
+New York Eastern,Eastern District of New York,E.D.N.Y.,2,NY
+New York Northern,Northern District of New York,N.D.N.Y.,2,NY
+New York Southern,Southern District of New York,S.D.N.Y.,2,NY
+New York Western,Western District of New York,W.D.N.Y.,2,NY
+North Carolina Eastern,Eastern District of North Carolina,E.D.N.C.,4,NC
+North Carolina Middle,Middle District of North Carolina,M.D.N.C.,4,NC
+North Carolina Western,Western District of North Carolina,W.D.N.C.,4,NC
+North Dakota,District of North Dakota,D.N.D.,8,ND
+Northern Mariana Islands,District of the Northern Mariana Islands,D.N. Mar. I.,9,MP
+Ohio Northern,Northern District of Ohio,N.D. Ohio,6,OH
+Ohio Southern,Southern District of Ohio,S.D. Ohio,6,OH
+Oklahoma Eastern,Eastern District of Oklahoma,E.D. Okla.,10,OK
+Oklahoma Northern,Northern District of Oklahoma,N.D. Okla.,10,OK
+Oklahoma Western,Western District of Oklahoma,W.D. Okla.,10,OK
+Oregon,District of Oregon,D. Ore.,9,OR
+Pennsylvania Eastern,Eastern District of Pennsylvania,E.D. Pa.,3,PA
+Pennsylvania Middle,Middle District of Pennsylvania,M.D. Pa.,3,PA
+Pennsylvania Western,Western District of Pennsylvania,W.D. Pa.,3,PA
+Puerto Rico,District of Puerto Rico,D.P.R.,1,PR
+Rhode Island,District of Rhode Island,D.R.I.,1,RI
+South Carolina,District of South Carolina,D.S.C.,4,SC
+South Dakota,District of South Dakota,D.S.D.,8,SD
+Tennessee Eastern,Eastern District of Tennessee,E.D. Tenn.,6,TN
+Tennessee Middle,Middle District of Tennessee,M.D. Tenn.,6,TN
+Tennessee Western,Western District of Tennessee,W.D. Tenn.,6,TN
+Texas Eastern,Eastern District of Texas,E.D. Tex.,5,TX
+Texas Northern,Northern District of Texas,N.D. Tex.,5,TX
+Texas Southern,Southern District of Texas,S.D. Tex.,5,TX
+Texas Western,Western District of Texas,W.D. Tex.,5,TX
+Utah,District of Utah,D. Utah,10,UT
+Vermont,District of Vermont,D. Vt.,2,VT
+Virgin Islands,District of the Virgin Islands,D.V.I.,3,VI
+Virginia Eastern,Eastern District of Virginia,E.D. Va.,4,VA
+Virginia Western,Western District of Virginia,W.D. Va.,4,VA
+Washington Eastern,Eastern District of Washington,E.D. Wash.,9,WA
+Washington Western,Western District of Washington,W.D. Wash.,9,WA
+West Virginia Northern,Northern District of West Virginia,N.D.W. Va.,4,WV
+West Virginia Southern,Southern District of West Virginia,S.D.W. Va.,4,WV
+Wisconsin Eastern,Eastern District of Wisconsin,E.D. Wis.,7,WI
+Wisconsin Western,Western District of Wisconsin,W.D. Wis.,7,WI
+Wyoming,District of Wyoming,D. Wyo.,10,WY

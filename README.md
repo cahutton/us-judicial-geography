@@ -42,7 +42,7 @@ All layers are derived from the 2018 edition of the U.S. Census Bureau’s TIGER
 
 Judicial circuits are the largest units of U.S. federal judicial geography (other than the nation as a whole), and each is home to a corresponding United States Court of Appeals. Circuits are composed of judicial districts, as defined in [28 U.S.C. § 41](https://uscode.house.gov/browse/prelim@title28/part1/chapter3/section41).
 
-![Judicial Circuits](./images/judicial_circuit.png)
+![Judicial Circuits](https://raw.githubusercontent.com/cahutton/us-judicial-geography/master/images/judicial-circuit.png)
 
 The only boundary between circuits that doesn’t follow state boundaries is the one between the Ninth and Tenth Circuits. Due to the definition of the District of Wyoming, the parts of Idaho and Montana within Yellowstone National Park belong to a different circuit than the bulk of those states.
 
@@ -54,7 +54,7 @@ Geometry for the Federal Circuit is not included, despite it being composed of a
 
 Judicial districts are the primary units of U.S. federal judicial geography; each corresponds to a United States District Court. No distinction is made here between districts of courts established under Article III of the Constitution (those for the 50 states, the District of Columbia, and Puerto Rico) and those established under Article IV (the territorial courts of Guam, the Northern Mariana Islands, and the Virgin Islands). Districts are defined in [28 U.S.C. §§ 81–131](https://uscode.house.gov/browse/prelim@title28/part1/chapter5) (as to the states, D.C., and Puerto Rico), [48 U.S.C. § 1424 & seqq.](https://uscode.house.gov/browse/prelim@title48/chapter8A/subchapter4) (as to Guam), [48 U.S.C. § 1611 & seqq.](https://uscode.house.gov/browse/prelim@title48/chapter12/subchapter5) (as to the Virgin Islands), and [48 U.S.C. § 1821 & seqq.](https://uscode.house.gov/browse/prelim@title48/chapter17/subchapter2) (as to the Northern Mariana Islands).
 
-![Judicial Districts](./images/judicial_district.png)
+![Judicial Districts](https://raw.githubusercontent.com/cahutton/us-judicial-geography/master/images/judicial-district.png)
 
 American Samoa and Navassa Island are not included in any district.
 
@@ -70,7 +70,7 @@ With two exceptions, all districts are composed of entire counties (or equivalen
 
 ### judicial_district_county
 
-![Judicial District Counties](./images/judicial_district_county.png)
+![Judicial District Counties](https://raw.githubusercontent.com/cahutton/us-judicial-geography/master/images/judicial-district-county.png)
 
 These are the elements from which the other layers are constructed. With the exceptions noted above about partitioned counties, this layer is almost identical to the original county data.
 
@@ -78,7 +78,7 @@ Unlike all the other layers, this one includes all the territories in the source
 
 ### statutory_judicial_division
 
-![Statutory Judicial Divisions](./images/statutory_judicial_division.png)
+![Statutory Judicial Divisions](https://raw.githubusercontent.com/cahutton/us-judicial-geography/master/images/judicial-division.png)
 
 Many judicial districts are split into "divisions" for administrative purposes. The ones included here are those defined in the current U.S. Code.
 
